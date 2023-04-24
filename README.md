@@ -10,6 +10,7 @@
     </a>
 </div>
 <h1>Hello there! :wave:</h1>
+<p>My name is Henry Morgan (not to be confused with Captain Morgan 🏴‍☠️).<br>I enjoy coding! 💻</p>
 <!---
 henatic/henatic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
