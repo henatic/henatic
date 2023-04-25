@@ -30,10 +30,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <h2>Education 👨‍🎓</h2>
-<ul>
-  <li>I'm a Computer Science graduate from California State Polytechnic University, Humboldt (formerly known as Humboldt State University).</li>
-  <li>To strengthen my skills, I continue to earn certificates from <a href="https://www.freecodecamp.org/">freeCodeCamp</a>.</li>
-</ul>
+<p>I'm a Computer Science graduate from California State Polytechnic University, Humboldt (formerly known as Humboldt State University).</p>
+<p>I have also been awarded the Computer Science Outstanding Student of the Year 2021-2022, from the Cal Poly Humboldt Department of Computer Science. </p>
 <h2>Work 🕴️</h2>
 <p>I work for <a href="https://www.nylex.net/">Nylex.Net</a> as an Automation Technician.  My job is to work on projects for clients and the company using my software engineering knowledge.</p>
 <h2>Projects 👨‍💻</h2>
