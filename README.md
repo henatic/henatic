@@ -75,7 +75,7 @@
   <li>Create a PDF to summarize all of the user's submitted information.</li>
   <li>Grab emails from admins and the selected individuals from the user's submission, and send them all a notice.</li>
 </ol>
-<p>I created about 5 different forms in total that follows the above scheme.  Some of the tools I used for this project were Node.js, JavaScript, HTML, and CSS.  Overall, this project ended up being very JavaScript heavy.  Although there are some areas where I realized the system could've been integrated more smoothly, I'm still glad about how well it turned out.<br>The PPI is still currently in use today.  For security reasons, I'm keeping the repository for this project private within the Nylex's GitHub organization.</p>
+<p>I created about 5 different forms in total that follows the above scheme.  Some of the tools I used for this project were Node.js, JavaScript, HTML, and CSS.  Overall, this project ended up being very JavaScript heavy.  Although there are some areas where I realized the system could've been integrated more smoothly, I'm still glad about how well it turned out.<br>The PPI is still currently in use today.  For security reasons, I'm keeping the repository for this project private within the Nylex GitHub organization.</p>
 <h2>Hobbies 🎮</h2>
 <ul>
   <li>Playing video games (My favorite series is The Legend of Zelda). 👾</li>
