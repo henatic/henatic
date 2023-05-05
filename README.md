@@ -11,7 +11,7 @@
 </div>
 <h1>Hello there! :wave:</h1>
 <p>My name is Henry Morgan (not to be confused with Captain Morgan 🏴‍☠️).<br>I enjoy coding, and I continue to practice by using <a href="https://www.freecodecamp.org/">freeCodeCamp</a> and <a href="https://leetcode.com">LeetCode</a>! 💻</p>
-<h2>Some Languages and Tools</h2>
+<h2>Languages and Tools</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
