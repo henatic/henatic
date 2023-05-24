@@ -56,15 +56,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google" alt="Google" width="40" height="40"/>&nbsp;
 </div>
 <h2>Education 👨‍🎓</h2>
-<p>I'm a Computer Science graduate from California State Polytechnic University, Humboldt (formerly known as Humboldt State University).</p>
+<p>I'm a Computer Science graduate with honors from California State Polytechnic University, Humboldt (formerly known as Humboldt State University).</p>
 <p>I have also been awarded the Computer Science Outstanding Student of the Year 2021-2022, from the Cal Poly Humboldt Department of Computer Science. </p>
 <h2>Work 🕴️</h2>
-<p>I work for <a href="https://www.nylex.net/">Nylex.Net</a> as an Automation Technician.  My job is to work on projects for clients and the company using my software engineering knowledge.</p>
+<p>I work for <a href="https://www.nylex.net/">Nylex.Net</a> as an Automation Technician.  My job is to work on projects for clients and the company using my software engineering knowledge.  My most noteable project during this position is the Project/Promo Initiation (See Projects section for more info).</p>
 <h2>Projects 👨‍💻</h2>
 <h3>Senior Capstone Project</h3>
 <p>For the senior capstone project, I grouped up with three fellow classmates to build a puzzle game about the basics of computer chips.  Our inspiration was from the classwork we'd done in our Computer Architecture class.  In that class, we used logic chips to build more complex chips using a selection of inputs and outputs.  The goal for each project in that class was to connect chips together in a way that every selection of inputs leads to the correct set of outputs.  Our game is called <strong>Assembler Exemplar</strong>.<br>Our GitHub repository is located <a href="https://github.com/SeanFxyz/assembler_exemplar">here</a>.</p>
 <h3>Project/Promo Initiation (PPI)</h3>
-<p>One of the main reasons why I was hired at Nylex.Net was because they needed help from someone to program an initiation system for the company SHN.  SHN is an engineering consultant company based in Eureka, California, and they needed an internal form to initiate projects and promos by doing the following:</p>
+<p>One of the main reasons why I was hired at Nylex.Net was because they needed help from someone to program an initiation system for the company SHN.  SHN is an engineering consultant company based in Eureka, California, and they needed an internal form to initiate new projects and promos by doing the following:</p>
 <ol>
   <li>Have the user enter PPI info into a multi-page web form.</li>
   <li>View their inputted information.</li>
@@ -75,7 +75,7 @@
   <li>Create a PDF to summarize all of the user's submitted information.</li>
   <li>Grab emails from admins and the selected individuals from the user's submission, and send them all a notice.</li>
 </ol>
-<p>I created about 5 different forms in total that follows the above scheme.  Some of the tools I used for this project were Node.js, JavaScript, HTML, Azure, and CSS.  Overall, this project ended up being very JavaScript heavy.  Although there are some areas where I realized the system could've been integrated more smoothly, I'm still glad about how well it turned out.<br>The PPI is still currently in use today.  For security reasons, I'm keeping the repository for this project private within the Nylex GitHub organization.</p>
+<p>I created 5 different forms in total that follows the above scheme.  Some of the tools I used for this project were Node.js, JavaScript, HTML, Azure, and CSS.  Overall, this project ended up being very JavaScript heavy.  Over time, I continuously made improvements to the system based on the company's suggestions.  For every improvement I made, I'm glad about how well it turns out.<br>The PPI is still currently in use today.  For security reasons, I'm keeping the repository for this project private within Nylex's GitHub organization.</p>
 <h2>Hobbies 🎮</h2>
 <ul>
   <li>Playing video games (My favorite series is The Legend of Zelda). 👾</li>
