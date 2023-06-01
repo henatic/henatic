@@ -9,16 +9,17 @@
         <img src="https://img.shields.io/badge/freeCodeCamp-2a2b40?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="freeCodeCamp Badge"/>
     </a>
 </div>
-<h1>Hello there! :wave:</h1>
+<h1>Welcome to my GitHub! :wave:</h1>
 <p>My name is Henry Morgan (not to be confused with Captain Morgan 🏴‍☠️).<br>I enjoy coding, and I continue to practice by using <a href="https://www.freecodecamp.org/">freeCodeCamp</a> and <a href="https://leetcode.com">LeetCode</a>! 💻</p>
-<h2>Languages and Tools</h2>
+<p>My goal is to become a software engineer.  However, I'm open to other career paths similar to my degree.  If I get the opportunity to do so, I'd also like to earn a Masters degree in Computer Science.</p>
+<h2>Programming Languages and Tools</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -57,7 +58,7 @@
 </div>
 <h2>Education 👨‍🎓</h2>
 <p>I'm a Computer Science graduate with honors from California State Polytechnic University, Humboldt (formerly known as Humboldt State University).</p>
-<p>I have also been awarded the Computer Science Outstanding Student of the Year 2021-2022, from the Cal Poly Humboldt Department of Computer Science. </p>
+<p>I have also been awarded the Computer Science Outstanding Student of the Year 2021-2022, from the Cal Poly Humboldt Department of Computer Science.</p>
 <h2>Work 🕴️</h2>
 <p>I work for <a href="https://www.nylex.net/">Nylex.Net</a> as an Automation Technician.  My job is to work on projects for clients and the company using my software engineering knowledge.  My most noteable project during this position is the Project/Promo Initiation (See Projects section for more info).</p>
 <h2>Projects 👨‍💻</h2>
@@ -78,9 +79,12 @@
 <p>I created 5 different forms in total that follows the above scheme.  Some of the tools I used for this project were Node.js, JavaScript, HTML, Azure, and CSS.  Overall, this project ended up being very JavaScript heavy.  Over time, I continuously made improvements to the system based on the company's suggestions.  For every improvement I made, I'm glad about how well it turns out.<br>The PPI is still currently in use today.  For security reasons, I'm keeping the repository for this project private within Nylex's GitHub organization.</p>
 <h2>Hobbies 🎮</h2>
 <ul>
-  <li>Playing video games (My favorite series is The Legend of Zelda). 👾</li>
-  <li>Taking walks on my freetime. 🚶‍♂️</li>
+  <li>Play video games (My favorite series is The Legend of Zelda). 👾</li>
+  <li>Take walks on my freetime. 🚶‍♂️</li>
   <li>Traveling. 🗺️</li>
+  <li>Learn/study various topics on YouTube. 🟥</li>
+  <li>Watch Anime. 🗼</li>
+  <li>Learn Japanese using Duolingo. 🎌</li>
   <li>Dank Memes. 🤤</li>
 </ul>
 <!---
