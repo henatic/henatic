@@ -35,11 +35,12 @@
 <p>I created 5 different forms in total that follows the above scheme.  A few of the forms also include searching directories to find cooresponding project folders and files to manage.</p>
 <p>Some of the tools I used for this project were Node.js, express, npm, JavaScript, HTML, Azure, and CSS.  Overall, this project ended up being very JavaScript heavy.  Over time, I continuously made improvements to the system based on the company's suggestions.  For every improvement I made, I'm glad about how well it turns out.<br>The PPI is still currently in use today.  For security reasons, I'm keeping the repository for this project private within Nylex's GitHub organization.</p>
 <h3>Other Projects</h3>
-<p>Other projects I'm proud of include the following:</p>
+<p>Some more projects I'm proud of include the following:</p>
 <ul>
   <li>Portfolio</li>
   <li>Recreate the computer system's layers with C++</li>
-  <li>Redesign of Nylex's Website</li>
+  <li>Using C# to interact with M-Files (a document management system) to build interactive objects.</li>
+  <li>Redesign of Nylex.net's Website</li>
   <li>Built executable programs using Python</li>
   <li>Custom built a database system for memes</li>
 </ul>
