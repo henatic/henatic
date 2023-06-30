@@ -93,7 +93,7 @@
 <h2>Hobbies 🎮</h2>
 <ul>
   <li>Play video games (My favorite series is The Legend of Zelda). 👾</li>
-  <li>Take walks on my freetime. 🚶‍♂️</li>
+  <li>Take walks on my freetime.🚶‍♂️</li>
   <li>Traveling. 🗺️</li>
   <li>Learn/study various topics on YouTube. 🟥</li>
   <li>Watch Anime. 🗼</li>
