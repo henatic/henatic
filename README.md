@@ -1,3 +1,4 @@
+![](./profile-3d-contrib/profile-green-animate.svg)
 <div align="center">
   <img src="https://media4.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif?cid=ecf05e47e387wrkdtx6drx3ssrv7w2yulhtnv7jy1ndlwoa1&rid=giphy.gif&ct=g"/>
 </div>
