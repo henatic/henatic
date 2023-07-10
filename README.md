@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/badge/freeCodeCamp-2a2b40?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="freeCodeCamp Badge"/>
     </a>
 </div>
-<h1>Welcome to my GitHub! :wave:</h1>
+<h1>About Me! 🧠</h1>
 <p>My name is Henry Morgan (not to be confused with Captain Morgan 🏴‍☠️).<br>I enjoy coding, and I continue to practice by using <a href="https://www.freecodecamp.org/">freeCodeCamp</a> and <a href="https://leetcode.com">LeetCode</a>! 💻</p>
 <p>My goal is to become a software engineer.  However, I'm open to other career paths similar to my degree.  If I get the opportunity to do so, I'd also like to earn a Masters degree in Computer Science.</p>
 <h2>Education 👨‍🎓</h2>
