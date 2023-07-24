@@ -37,7 +37,7 @@
   <li>Grab emails from admins and the selected individuals from the user's submission, and send them all a notice.</li>
 </ol>
 <p>I created 5 different forms in total that follows the above scheme.  A few of the forms also include searching directories to find cooresponding project folders and files to manage.</p>
-<p>Some of the tools I used for this project were Node.js, express, npm, JavaScript, HTML, Azure, and CSS.  Overall, this project ended up being very JavaScript heavy.  Over time, I continuously made improvements to the system based on the company's suggestions.  For every improvement I made, I'm glad about how well it turns out.<br>The PPI is still currently in use today.  For security reasons, I'm keeping the repository for this project private within Nylex's GitHub organization.</p>
+<p>Some of the tools I used for this project were Node.js, express, npm, JavaScript, HTML, Azure, and CSS.  Overall, this project ended up being very JavaScript heavy.  Over time, I continuously made improvements to the system based on the company's suggestions.  For every improvement I made, I'm glad about how well it turns out.<br>The PPI is still currently in use today.  For security reasons, I'm keeping the original repository for this project private within Nylex's GitHub organization.  However, I'm currently working on an updated and improved version <a href="https://github.com/Nylex-net/PPI-Build2">here</a>.</p>
 <h3>Other Projects</h3>
 <p>Some more projects I'm proud of include the following:</p>
 <ul>
