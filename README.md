@@ -25,7 +25,7 @@
 <h3>Senior Capstone Project</h3>
 <p>For the senior capstone project, I grouped up with three fellow classmates to build a puzzle game about the basics of computer chips.  Our inspiration was from the classwork we'd done in our Computer Architecture class.  In that class, we used logic chips to build more complex chips using a selection of inputs and outputs.  The goal for each project in that class was to connect chips together in a way that every selection of inputs leads to the correct set of outputs.  Our game is called <strong>Assembler Exemplar</strong>.<br>Our GitHub repository is located <a href="https://github.com/SeanFxyz/assembler_exemplar">here</a>.</p>
 <h3>Project/Promo Initiation (PPI)</h3>
-<p>One of the main reasons why I was hired at Nylex.Net was because they needed help from someone to program an initiation system for the company SHN.  SHN is an engineering consultant company based in Eureka, California, and they needed an internal form to initiate new projects and promos by doing the following:</p>
+<p>One of the main reasons why I was hired at Nylex.net was because they needed help from someone to program an initiation system for the company SHN.  SHN is an engineering consultant company based in Eureka, California, and they needed an internal form to initiate new projects and promos by doing the following:</p>
 <ol>
   <li>Have the user enter PPI info into a multi-page web form.</li>
   <li>View their inputted information.</li>
