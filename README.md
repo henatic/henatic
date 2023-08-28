@@ -100,7 +100,7 @@
   <li>Play video games (My favorite series is The Legend of Zelda). 👾</li>
   <li>Take walks on my freetime.🚶‍♂️</li>
   <li>Traveling. 🗺️</li>
-  <li>Learn/study various topics on YouTube. 🟥</li>
+  <li>Watch various videos on YouTube. 🟥</li>
   <li>Watch Anime. 🗼</li>
   <li>Learn Japanese using Duolingo. 🎌</li>
   <li>Dank Memes. 🤤</li>
