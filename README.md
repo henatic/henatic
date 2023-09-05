@@ -105,6 +105,21 @@
   <li>Learn Japanese using Duolingo. 🎌</li>
   <li>Dank Memes. 🤤</li>
 </ul>
+<h2>Community Involvement 🌲</h2>
+<ul>
+  <li>Boy Scouts of America</li>
+  <ul>
+    <li>Highest Rank before leaving was Star Scout.</li>
+    <li>Volunteer work for my local community.</li>
+    <li>Exciting trips along the west coast.</li>
+  </ul>
+  <li>Clubs:</li>
+  <ul>
+    <li>Computer Science Club</li>
+    <li>Key Club</li>
+    <li>Drama Club</li>
+  </ul>
+</ul>
 <!---
 henatic/henatic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
