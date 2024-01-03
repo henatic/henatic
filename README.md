@@ -15,12 +15,12 @@
 <h1>About Me! 🧠</h1>
 <p>My name is Henry Morgan (not to be confused with Captain Morgan 🏴‍☠️).<br>I enjoy coding, and I continue to practice by using <a href="https://www.freecodecamp.org/">freeCodeCamp</a> and <a href="https://leetcode.com">LeetCode</a>! 💻</p>
 <p>My goal is to become a software engineer.  However, I'm open to other career paths similar to my degree.  If I get the opportunity to do so, I'd also like to earn a Masters degree in Computer Science.</p>
+<h2>Work 🕴️</h2>
+<p>Currently, I work for <a href="https://www.nylex.net/">Nylex.net</a> as an Automation Technician.  My job is to work on projects for clients and the company using software engineering practices.  My most noteable project during this position is the Project/Promo Initiation (See Projects section for more info).</p>
 <h2>Education 👨‍🎓</h2>
 <p>I'm a Computer Science graduate with honors from California State Polytechnic University, Humboldt (formerly known as Humboldt State University).</p>
 <p>I have been awarded the Computer Science Outstanding Student of the Year 2021-2022, from the Cal Poly Humboldt Department of Computer Science.</p>
 <p>I also went to College of the Redwoods and earned an associates degree in Liberal Arts: Science Exploration.</p>
-<h2>Work 🕴️</h2>
-<p>Currently, I work for <a href="https://www.nylex.net/">Nylex.net</a> as an Automation Technician.  My job is to work on projects for clients and the company using software engineering practices.  My most noteable project during this position is the Project/Promo Initiation (See Projects section for more info).</p>
 <h2>Projects 👨‍💻</h2>
 <h3>Senior Capstone Project</h3>
 <p>For the senior capstone project, I grouped up with three fellow classmates to build a puzzle game about the basics of computer chips.  Our inspiration was from the classwork we'd done in our Computer Architecture class.  In that class, we used logic chips to build more complex chips using a selection of inputs and outputs.  The goal for each project in that class was to connect chips together in a way that every selection of inputs leads to the correct set of outputs.  Our game is called <strong>Assembler Exemplar</strong>.<br>Our GitHub repository is located <a href="https://github.com/SeanFxyz/assembler_exemplar">here</a>.</p>
