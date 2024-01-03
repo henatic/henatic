@@ -41,12 +41,12 @@
 <h3>Other Projects</h3>
 <p>Some more projects I'm proud of include the following:</p>
 <ul>
-  <li>Portfolio</li>
-  <li>Recreate the computer system's layers with C++</li>
+  <li>Portfolio.</li>
+  <li>Recreated the typical operating system layers using C++.</li>
   <li>Using C# to interact with M-Files (a document management system) to build interactive objects.</li>
-  <li>Redesign of Nylex.net's Website</li>
-  <li>Built executable programs using Python</li>
-  <li>Custom built a database system for memes</li>
+  <li>Redesign of Nylex.net's Website.</li>
+  <li>Built executable programs using Python.</li>
+  <li>Custom built a database system for memes.</li>
 </ul>
 <h2>Programming Languages and Tools</h2>
 <div>
