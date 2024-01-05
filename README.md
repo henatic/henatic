@@ -16,6 +16,7 @@
 <p>My name is Henry Morgan (not to be confused with Captain Morgan 🏴‍☠️).<br>I enjoy coding, and I continue to practice by using <a href="https://www.freecodecamp.org/">freeCodeCamp</a> and <a href="https://leetcode.com">LeetCode</a>! 💻</p>
 <p>My goal is to become a software engineer.  However, I'm open to other career paths similar to my degree.  If I get the opportunity to do so, I'd also like to earn a Masters degree in Computer Science.</p>
 <h2>Work 🕴️</h2>
+<h3>Nylex.net, Inc.: 2022 - Present</h3>
 <p>Currently, I work for <a href="https://www.nylex.net/">Nylex.net</a> as an Automation Technician.  My job is to work on projects for clients and the company using software engineering practices.  My most noteable project during this position is the Project/Promo Initiation (See Projects section for more info).</p>
 <h2>Education 👨‍🎓</h2>
 <p>I'm a Computer Science graduate with honors from California State Polytechnic University, Humboldt (formerly known as Humboldt State University).</p>
