@@ -27,8 +27,6 @@
 <h3>College of the Redwoods: 2017 - 2020</h3>
 <p>I attended College of the Redwoods to complete all the prerequisites I can take before transferring my way to a university.  In the process, I earned an associates degree in Liberal Arts: Science Exploration.</p>
 <h2>Projects 👨‍💻</h2>
-<h3>Senior Capstone Project</h3>
-<p>For the senior capstone project, I grouped up with three fellow classmates to build a puzzle game about the basics of computer chips.  Our inspiration was from the classwork we'd done in our Computer Architecture class.  In that class, we used logic chips to build more complex chips using a selection of inputs and outputs.  The goal for each project in that class was to connect chips together in a way that every selection of inputs leads to the correct set of outputs.  Our game is called <strong>Assembler Exemplar</strong>.<br>Our GitHub repository is located <a href="https://github.com/SeanFxyz/assembler_exemplar">here</a>.</p>
 <h3>Project/Promo Initiation (PPI)</h3>
 <p>One of the main reasons why I was hired at Nylex.net was because they needed help from someone to program an initiation system for the company SHN.  SHN is an engineering consultant company based in Eureka, California, and they needed an internal form to initiate new projects and promos by doing the following:</p>
 <ol>
@@ -43,14 +41,30 @@
 </ol>
 <p>I created 5 different forms in total that follows the above scheme.  A few of the forms also include searching directories to find cooresponding project folders and files to manage.</p>
 <p>Some of the tools I used for this project were Node.js, express, npm, JavaScript, HTML, Azure, and CSS.  Overall, this project ended up being very JavaScript heavy.  Over time, I continuously made improvements to the system based on the company's suggestions.  For every improvement I made, I'm glad about how well it turns out.<br>The PPI is still currently in use today.  For security reasons, I'm keeping the original repository for this project private within Nylex's GitHub organization.  However, I'm currently working on an updated and improved version <a href="https://github.com/Nylex-net/PPI-Build2">here</a>.</p>
+<h3>Nylex.net's Company Website</h3>
+<p>To replace Nylex.net's current website, I was tasked to customize a new one to look more modern. But rather than using a CMS, web designer, or writing primarily in traditional website languages (i.e. HTML, CSS, and Javascript), I chose Python's Django framework. For me, the creation of this project was the most complex because of my choice of tools that all need to work together.  These tools include the following:</p>
+<ul>
+  <li>Django (Python application framework)</li>
+  <li>PostgreSQL</li>
+  <li>Nginx</li>
+  <li>Certbot</li>
+  <li>Docker</li>
+  <li>Kubernetes</li>
+</ul>
+<p>My choice of approaching this project was to make the website an application that is editable through Django's built-in admin portal. Most of the web pages use the same consistent template for all of its web pages, and the individual page content is grabbed from the PostgreSQL database by using the slug name in the URL.  It uses Bootstrap 5.0 for the majority of its stylization and user interactions. Individual page content can be edited from the admin portal, and Django renders the template tags in the HTML files to fill the page content.</p>
+<p>Next, I decided to introduce Docker containers to host the application. For this to work, I followed the example <a href="https://londonappdeveloper.com/deploying-django-with-docker-compose/">here</a>, which uses Docker Compose to create multiple containers. For this application to work, I needed a proxy server (Nginx) to help preload media and external files to render each page. I also created a certbot container for the website to use HTTPS.</p>
+<p>Finally, I decided to introduce Kubernetes to learn how I can host these containers in an enterprise environment. The reason I wanted to use Kubernetes is to keep the website accessible during times of high web traffic and to manage software deployments.</p>
+<p>You can find the repository for this project <a href="https://github.com/Nylex-net/website">here</a>.</p>
+<h3>Senior Capstone Project</h3>
+<p>For the senior capstone project, I grouped up with three fellow classmates to build a puzzle game about the basics of computer chips.  Our inspiration was from the classwork we'd done in our Computer Architecture class.  In that class, we used logic chips to build more complex chips using a selection of inputs and outputs.  The goal for each project in that class was to connect chips together in a way that every selection of inputs leads to the correct set of outputs.  Our game is called <strong>Assembler Exemplar</strong>.<br>Our GitHub repository is located <a href="https://github.com/SeanFxyz/assembler_exemplar">here</a>.</p>
 <h3>Other Projects</h3>
 <p>Some more projects I'm proud of include the following:</p>
 <ul>
   <li>Portfolio.</li>
   <li>Recreated the typical operating system layers using C++.</li>
   <li>Using C# to interact with M-Files (a document management system) to build interactive objects.</li>
-  <li>Redesign of Nylex.net's Website.</li>
   <li>Built executable programs using Python.</li>
+  <li>Wrote PowerShell scripts to manage the Windows operating system and devices.</li>
   <li>Custom built a database system for memes.</li>
 </ul>
 <h2>Programming Languages and Tools</h2>
