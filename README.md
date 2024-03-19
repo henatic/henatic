@@ -66,6 +66,8 @@
   <li>Built executable programs using Python.</li>
   <li>Wrote PowerShell scripts to manage the Windows operating system and devices.</li>
   <li>Custom built a database system for memes.</li>
+  <li>Customizing Airtable database for a client company.</li>
+  <li>Docker containers demonstrating examples of cybersecurity attacks written in the C language.</li>
 </ul>
 <h2>Programming Languages and Tools</h2>
 <div>
