@@ -125,7 +125,7 @@
 <ul>
   <li>Play video games (My favorite series is The Legend of Zelda). 👾</li>
   <li>Take walks on my freetime.🚶‍♂️</li>
-  <li>Traveling. 🗺️</li>
+  <li>Traveling (both in real life and through Google Maps). 🗺️</li>
   <li>Watch various videos on YouTube. 🟥</li>
   <li>Watch Anime. 🗼</li>
   <li>Learn Japanese using Duolingo. 🎌</li>
