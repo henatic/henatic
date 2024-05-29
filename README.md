@@ -19,7 +19,7 @@
 <h3>Nylex.net, Inc.: September 2022 - Present</h3>
 <p>Currently, I work for <a href="https://www.nylex.net/">Nylex.net</a> as an Automation Technician.  My job is to work on projects for clients and the company using software engineering practices.  My most noteable project during this position is the Project/Promo Initiation (See Projects section for more info).</p>
 <h3>Little Caesars: August 2017 - December 2017</h3>
-<p>First job was making pizza pizza during my first semester in college.</p>
+<p>First job was making "pizza pizza" during my first semester in college.</p>
 <h2>College Education 👨‍🎓</h2>
 <h3>California State Polytechnic University, Humboldt (Cal Poly Humboldt): 2020 - 2022</h3>
 <p>I'm a Computer Science graduate with honors from California State Polytechnic University, Humboldt (formerly known as Humboldt State University).</p>
