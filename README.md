@@ -29,6 +29,11 @@
 <h3>Associates in Liberal Arts: Science Exploration - College of the Redwoods</h3>
 <h4>2017 - 2020</h4>
 <p>I attended College of the Redwoods to complete all the prerequisites I can take before transferring my way to a university.  In the process, I earned an associates degree in Liberal Arts: Science Exploration.</p>
+<h2>Certificates 📜</h2>
+<h3>freeCodeCamp</h3>
+<h4><a href="https://www.freecodecamp.org/certification/henatic/foundational-c-sharp-with-microsoft">Foundational C# with Microsoft</a> - July 2024</h4>
+<h4><a href="https://www.freecodecamp.org/certification/henatic/machine-learning-with-python-v7">Machine Learning with Python</a> - June 2024</h4>
+<h4><a href="https://www.freecodecamp.org/certification/henatic/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures (Legacy)</a> - April 2023</h4>
 <h2>Projects 👨‍💻</h2>
 <h3><a href="https://github.com/Nylex-net/PPI-Build2">Project/Promo Initiation (PPI)</a></h3>
 <p>One of the main reasons why I was hired at Nylex.net was because they needed help from someone to program an initiation system for the company SHN.  SHN is an engineering consultant company based in Eureka, California, and they needed an internal form to initiate new projects and promos by doing the following:</p>
