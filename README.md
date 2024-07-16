@@ -13,7 +13,7 @@
     </a>
 </div>
 <h1>About Me! 🧠</h1>
-<p>My name is Henry Morgan (not to be confused with Captain Morgan 🏴‍☠️).<br>I enjoy coding and learning to code in multiple areas of study in Computer Science.  I continue coding practice by using <a href="https://www.freecodecamp.org/">freeCodeCamp</a> and <a href="https://leetcode.com">LeetCode</a>! 💻</p>
+<p>My name is Henry Morgan (not to be confused with Captain Morgan 🏴‍☠️).<br>I enjoy coding and learning to code in multiple areas of study in Computer Science.  I continue coding practice by using <a href="https://www.freecodecamp.org/">freeCodeCamp</a> and <a href="https://leetcode.com/u/henatic/">LeetCode</a>! 💻</p>
 <p>I am a motivated problem solver and strong communicator looking to prove my value, and I look for opportunity to advance and expand my current skillset.  I'd also like to earn a Masters degree in Computer Science and/or Software Engineering, as I have been considering the graduate program at UW Bothell.  Lately, I've been keeping myself up to date on topics related to Artificial Intelligence and how different variations of A.I. are built.</p>
 <h2>Work 🕴️</h2>
 <h3>Nylex.net, Inc.: September 2022 - Present</h3>
