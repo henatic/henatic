@@ -11,6 +11,9 @@
     <a href="https://www.freecodecamp.org/henatic">
         <img src="https://img.shields.io/badge/freeCodeCamp-2a2b40?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="freeCodeCamp Badge"/>
     </a>
+  <a href="https://leetcode.com/u/henatic/">
+        <img src="https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
+    </a>
 </div>
 <h1>About Me! 🧠</h1>
 <p>My name is Henry Morgan (not to be confused with Captain Morgan 🏴‍☠️).<br>I enjoy coding and learning to code in multiple areas of study in Computer Science.  I continue coding practice by using <a href="https://www.freecodecamp.org/henatic/">freeCodeCamp</a> and <a href="https://leetcode.com/u/henatic/">LeetCode</a>! 💻</p>
