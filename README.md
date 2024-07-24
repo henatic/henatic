@@ -17,21 +17,21 @@
 </div>
 <h1>About Me! 🧠</h1>
 <p>My name is Henry Morgan (not to be confused with Captain Morgan 🏴‍☠️).<br>I enjoy coding and learning to code in multiple areas of study in Computer Science.  I continue coding practice by using <a href="https://www.freecodecamp.org/henatic/">freeCodeCamp</a> and <a href="https://leetcode.com/u/henatic/">LeetCode</a>! 💻</p>
-<p>I am a motivated problem solver and strong communicator looking to prove my value, and I look for opportunity to advance and expand my current skillset.  I'd also like to earn a Masters degree in Computer Science and/or Software Engineering.  Lately, I have been considering graduate programs at a variety of universities.</p>
+<p>I am a motivated problem solver and strong communicator looking to prove my value, and I look for an opportunity to advance and expand my current skillset.  I'd also like to earn a masters degree in Computer Science and/or Software Engineering.  Lately, I have been considering graduate programs at a variety of universities.</p>
 <h2>Work 🕴️</h2>
 <h3>Nylex.net, Inc.: September 2022 - Present</h3>
-<p>Currently, I work for <a href="https://www.nylex.net/">Nylex.net</a> as an Automation Technician.  My job is to work on projects for clients and the company using software engineering practices.  My most noteable project during this position is the Project/Promo Initiation (See Projects section for more info).</p>
+<p>Currently, I work for <a href="https://www.nylex.net/">Nylex.net</a> as an Automation Technician.  My job is to work on projects for clients and the company using software engineering practices.  My most notable project during this position is the Project/Promo Initiation (See Projects section for more info).</p>
 <h3>Little Caesars: August 2017 - December 2017</h3>
-<p>First job was making "pizza pizza" during my first semester in college.</p>
+<p>My first job was making "pizza pizza" during my first semester in college.</p>
 <h2>College Education 👨‍🎓</h2>
-<h3>Bachelors of Science in Computer Science - California State Polytechnic University, Humboldt (Cal Poly Humboldt)</h3>
+<h3>Bachelor of Science in Computer Science - California State Polytechnic University, Humboldt (Cal Poly Humboldt)</h3>
 <h4>2020 - 2022</h4>
-<p>I'm a Computer Science graduate with honors from Cal Poly Humboldt (formerly known as Humboldt State University).  After finishing every possible GED requirement I could complete in community college, I transferred to this polytechnic to put all of my focus into studying Computer Science.</p>
+<p>I'm a Computer Science graduate with honors from Cal Poly Humboldt (formerly known as Humboldt State University).  After finishing every possible GED requirement I could complete in community college, I transferred to this polytechnic to put all my focus into studying Computer Science.</p>
 <h4>Awards:</h4>
 <p><i>Computer Science Outstanding Student of the Year 2021-2022</i>, from the Cal Poly Humboldt Department of Computer Science.</p>
-<h3>Associates in Liberal Arts: Science Exploration - College of the Redwoods</h3>
+<h3>Associate's in Liberal Arts: Science Exploration - College of the Redwoods</h3>
 <h4>2017 - 2020</h4>
-<p>I attended College of the Redwoods to complete all the prerequisites I can take before transferring my way to a university.  In the process, I earned an associates degree in Liberal Arts: Science Exploration.</p>
+<p>I attended College of the Redwoods to complete all the prerequisites I can take before transferring my way to a university.  In the process, I earned an associate's degree in Liberal Arts: Science Exploration.</p>
 <h2>Certificates 📜</h2>
 <h3>freeCodeCamp</h3>
 <h4><a href="https://www.freecodecamp.org/certification/henatic/foundational-c-sharp-with-microsoft">Foundational C# with Microsoft</a> - July 2024</h4>
