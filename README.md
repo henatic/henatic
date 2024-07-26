@@ -42,18 +42,19 @@
 <p>One of the main reasons why I was hired at Nylex.net was because they needed help from someone to program an initiation system for the company SHN.  SHN is an engineering consultant company based in Eureka, California, and they needed an internal form to initiate new projects and promos by doing the following:</p>
 <ol>
   <li>Have the user enter PPI info into a multi-page web form.</li>
-  <li>View their inputted information.</li>
-  <li>Send to a server to manage the data.</li>
+  <li>View their input information.</li>
+  <li>Send it to a server to manage the data.</li>
   <li>Insert the data into a Projects database to be used for searching, modifying, and updating information.</li>
   <li>Create the necessary directories within a shared drive to host project information.</li>
   <li>Apply Windows Protections to the folders that require it.</li>
-  <li>Create a PDF to summarize all of the user's submitted information.</li>
-  <li>Grab emails from admins and the selected individuals from the user's submission, and send them all a notice.</li>
+  <li>Create a PDF to summarize all the user's submitted information.</li>
+  <li>Grab emails from admins and the selected individuals from the user's submission and send them all a notice.</li>
 </ol>
-<p>I created 5 different forms in total that follows the above scheme.  A few of the forms also include searching directories to find cooresponding project folders and files to manage.</p>
-<p>Some of the tools I used for this project were Node.js, express, npm, JavaScript, HTML, Azure, and CSS.  Overall, this project ended up being very JavaScript heavy.  Over time, I continuously made improvements to the system based on the company's suggestions.  For every improvement I made, I'm glad about how well it turns out.<br>The PPI is still currently in use today.  For security reasons, I'm keeping the original repository for this project private within Nylex's GitHub organization.  However, I'm currently working on an updated and improved version <a href="https://github.com/Nylex-net/PPI-Build2">here</a>.</p>
+<p>I created 5 different forms in total that follow the above scheme.  A few of the forms also include searching directories to find corresponding project folders and files to manage.</p>
+<p>Some of the tools I used for this project were Node.js, express, NPM, JavaScript, HTML, Azure, and CSS.  Overall, this project ended up being very JavaScript heavy.  Over time, I continuously made improvements to the system based on the company's suggestions.  For every improvement I made, I'm glad about how well it turns out.<br>The PPI is still currently in use today.  For security reasons, I'm keeping the original repository for this project private within Nylex's GitHub organization.  However, I'm currently working on an updated and improved version <a href="https://github.com/Nylex-net/PPI-Build2">here</a>.</p>
+
 <h3><a href="https://github.com/Nylex-net/website">Nylex.net's Company Website</a></h3>
-<p>To replace Nylex.net's current website, I was tasked to customize a new one to look more modern. But rather than using a CMS, web designer, or writing primarily in traditional website languages (i.e. HTML, CSS, and Javascript), I chose Python's Django framework. For me, the creation of this project was the most complex because of my choice of tools that all need to work together.  These tools include the following:</p>
+<p>To replace Nylex.net's current website, I was tasked to customize a new one to look more modern. But rather than using a CMS, web designer, or writing primarily in traditional website languages (i.e. HTML, CSS, and JavaScript), I chose Python's Django framework. For me, the creation of this project was the most complex because of my choice of tools that all need to work together.  These tools include the following:</p>
 <ul>
   <li>Django (Python application framework)</li>
   <li>PostgreSQL</li>
@@ -62,8 +63,8 @@
   <li>Docker</li>
   <li>Kubernetes</li>
 </ul>
-<p>My choice of approaching this project was to make the website an application that is editable through Django's built-in admin portal. Most of the web pages use the same consistent template for all of its web pages, and the individual page content is grabbed from the PostgreSQL database by using the slug name in the URL.  It uses Bootstrap 5.0 for the majority of its stylization and user interactions. Individual page content can be edited from the admin portal, and Django renders the template tags in the HTML files to fill the page content.</p>
-<p>Next, I decided to introduce Docker containers to host the application. For this to work, I followed the example <a href="https://londonappdeveloper.com/deploying-django-with-docker-compose/">here</a>, which uses Docker Compose to create multiple containers. For this application to work, I needed a proxy server (Nginx) to help preload media and external files to render each page. I also created a certbot container for the website to use HTTPS.</p>
+<p>My choice of approaching this project was to make the website an application that is editable through Django's built-in admin portal. Most of the web pages use the same consistent template for all of its web pages, and the individual page content is grabbed from the PostgreSQL database by using the slug name in the URL.  It uses Bootstrap 5.0 for much of its stylization and user interactions. Individual page content can be edited from the admin portal, and Django renders the template tags in the HTML files to fill the page content.</p>
+<p>Next, I decided to introduce Docker containers to host the application. For this to work, I followed the example <a href="https://londonappdeveloper.com/deploying-django-with-docker-compose/">here</a>, which uses Docker Compose to create multiple containers. For this application to work, I needed a proxy server (Nginx) to help preload media and external files to render each page. I also created a Certbot container for the website to use HTTPS.</p>
 <p>Finally, I decided to introduce Kubernetes to learn how I can host these containers in an enterprise environment. The reason I wanted to use Kubernetes is to keep the website accessible during times of high web traffic and to manage software deployments.</p>
 <p>You can find the repository for this project <a href="https://github.com/Nylex-net/website">here</a>.</p>
 <h3><a href="https://github.com/SeanFxyz/assembler_exemplar">Senior Capstone Project</a></h3>
@@ -195,7 +196,7 @@
 <h2>Hobbies 🎮</h2>
 <ul>
   <li>Play video games (My favorite series is The Legend of Zelda). 👾</li>
-  <li>Take walks on my freetime.🚶‍♂️</li>
+  <li>Take walks on my free time.🚶‍♂️</li>
   <li>Traveling (both in real life and through Google Maps). 🗺️</li>
   <li>Watch various videos on YouTube. 🟥</li>
   <li>Watch Anime. 🗼</li>
