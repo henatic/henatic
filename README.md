@@ -18,7 +18,7 @@
 <h1>About Me! 🧠</h1>
 <p>My name is Henry Morgan (not to be confused with Captain Morgan 🏴‍☠️).<br>I enjoy coding and learning to code in multiple areas of study in Computer Science.  I continue coding practice by using <a href="https://www.freecodecamp.org/henatic/">freeCodeCamp</a> and <a href="https://leetcode.com/u/henatic/">LeetCode</a>! 💻</p>
 <p>I am a motivated problem solver and strong communicator looking to prove my value, and I look for an opportunity to advance and expand my current skillset.  I'd also like to earn a masters degree in Computer Science and/or Software Engineering.  Lately, I have been considering graduate programs at a variety of universities.</p>
-<h2>Work 🕴️</h2>
+<h2>Work Experience 🕴️</h2>
 <h3>Nylex.net, Inc.: September 2022 - Present</h3>
 <p>Currently, I work for <a href="https://www.nylex.net/">Nylex.net</a> as an Automation Technician.  My job is to work on projects for clients and the company using software engineering practices.  My most notable project during this position is the Project/Promo Initiation (See Projects section for more info).</p>
 <h3>Little Caesars: August 2017 - December 2017</h3>
