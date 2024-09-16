@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
     </a>
 </div>
-<h1>About Me! 🧠</h1>
+<h1> > Whoami 🧠</h1>
 <p>My name is Henry Morgan (not to be confused with Captain Morgan 🏴‍☠️).<br>I enjoy coding and learning to code in multiple areas of study in Computer Science.  I continue coding practice by using <a href="https://www.freecodecamp.org/henatic/">freeCodeCamp</a> and <a href="https://leetcode.com/u/henatic/">LeetCode</a>! 💻</p>
 <p>I am a motivated problem solver and strong communicator looking to prove my value, and I look for an opportunity to advance and expand my current skillset.  I'd also like to earn a masters degree in Computer Science and/or Software Engineering.  Lately, I have been considering graduate programs at a variety of universities.</p>
 <h2>Work Experience 🕴️</h2>
