@@ -1,25 +1,31 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 00:00 PST == 07:00 UTC
+  schedule: # Runs every 15 minutes starting at the 20th minute of the hour
     - cron: "20/15 * * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    name: Generate GitHub Profile 3D Contribution
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+      
+      - name: Generate 3D Contribution
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
+      
+      - name: Commit & Push Changes
         run: |
-          git config user.name github-actions
-          git config user.email github-actions[bot]@users.noreply.github.com
-          git add -A .
-          if git commit -m "generated"; then
+          git config user.name "github-actions"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git commit -m "generated" || [ $? -eq 1 ]; then
+            echo "No changes to commit"
+          else
             git push
           fi
