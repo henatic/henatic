@@ -8,24 +8,17 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate GitHub Profile 3D Contribution
+    name: generate-github-profile-3d-contrib
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-      
-      - name: Generate 3D Contribution
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      
-      - name: Commit & Push Changes
+      - name: Commit & Push
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          if git commit -m "generated" || [ $? -eq 1 ]; then
-            echo "No changes to commit"
-          else
-            git push
-          fi
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated"
+          git push
