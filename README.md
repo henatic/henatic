@@ -24,6 +24,9 @@
 <h3>Little Caesars: August 2017 - December 2017</h3>
 <p>My first job was making "pizza pizza" during my first semester in college.</p>
 <h2>College Education 👨‍🎓</h2>
+<h3>Master of Science in Computer Science and Software Engineering - University of Washington</h3>
+<h4>2025 - Present</h4>
+<p>I'm currently pursuing my masters degree at the University of Washington.</p>
 <h3>Bachelor of Science in Computer Science - California State Polytechnic University, Humboldt (Cal Poly Humboldt)</h3>
 <h4>2020 - 2022</h4>
 <p>I'm a Computer Science graduate with honors from Cal Poly Humboldt (formerly known as Humboldt State University).  After finishing every possible GED requirement I could complete in community college, I transferred to this polytechnic to put all my focus into studying Computer Science.</p>
