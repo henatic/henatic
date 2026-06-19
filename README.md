@@ -19,9 +19,11 @@
 <p>My name is Henry Morgan (not to be confused with Captain Morgan 🏴‍☠️).<br>I enjoy coding and learning to code in multiple areas of study in Computer Science.  I continue coding practice by using <a href="https://www.freecodecamp.org/henatic/">freeCodeCamp</a> and <a href="https://leetcode.com/u/henatic/">LeetCode</a>! 💻</p>
 <p>I am a motivated problem solver and strong communicator looking to prove my value, and I look for an opportunity to advance and expand my current skillset.  I'd also like to earn a masters degree in Computer Science and Software Engineering.  In September, I'll begin my Masters of Science at University of Washington Bothell.</p>
 <h2>Work Experience 🕴️ (Currently open to work!)</h2>
-<h3>Nylex.net, Inc.: September 2022 - November 2024</h3>
-<p>I worked for <a href="https://www.nylex.net/">Nylex.net</a> as an Automation Technician.  My job was to work on projects for clients and the company using software engineering practices.  My most notable project during this position is the Project/Promo Initiation (See Projects section for more info).</p>
-<h3>Little Caesars: August 2017 - December 2017</h3>
+<h3>Apartment Advisor at University of Washington Bothell: March 2026 - Present</h3>
+<p>Building skills in leadership, team building, and creating connections by creating a positive environment for students and staff members.  The core idea here is to transfer these skills into future employment opportunities.</p>
+<h3>Software Engineer at Nylex.net, Inc.: September 2022 - November 2024</h3>
+<p>Worked for <a href="https://www.nylex.net/">Nylex.net</a> as an Automation Technician.  My job was to work on projects for clients and the company using software engineering practices.  My most notable project during this position is the Project/Promo Initiation (See Projects section for more info).</p>
+<h3>Crew Member at Little Caesars: August 2017 - December 2017</h3>
 <p>My first job was making "pizza pizza" during my first semester in college.</p>
 <h2>College Education 👨‍🎓</h2>
 <h3>Master of Science in Computer Science and Software Engineering - University of Washington</h3>
