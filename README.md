@@ -18,30 +18,6 @@
 <h1> > Whoami 🧠</h1>
 <p>My name is Henry Morgan (not to be confused with Captain Morgan 🏴‍☠️).<br>I enjoy coding and learning to code in multiple areas of study in Computer Science.  I continue coding practice by using <a href="https://www.freecodecamp.org/henatic/">freeCodeCamp</a> and <a href="https://leetcode.com/u/henatic/">LeetCode</a>! 💻</p>
 <p>I am a motivated problem solver and strong communicator looking to prove my value, and I look for an opportunity to advance and expand my current skillset.  I'd also like to earn a masters degree in Computer Science and Software Engineering.  In September, I'll begin my Masters of Science at University of Washington Bothell.</p>
-<h2>Work Experience 🕴️ (Currently open to work!)</h2>
-<h3>Apartment Advisor at University of Washington Bothell: March 2026 - Present</h3>
-<p>Building skills in leadership, team building, and creating connections by creating a positive environment for students and staff members.  The core idea here is to transfer these skills into future employment opportunities.</p>
-<h3>Software Engineer at Nylex.net, Inc.: September 2022 - November 2024</h3>
-<p>Worked for <a href="https://www.nylex.net/">Nylex.net</a> as an Automation Technician.  My job was to work on projects for clients and the company using software engineering practices.  My most notable project during this position is the Project/Promo Initiation (See Projects section for more info).</p>
-<h3>Crew Member at Little Caesars: August 2017 - December 2017</h3>
-<p>My first job was making "pizza pizza" during my first semester in college.</p>
-<h2>College Education 👨‍🎓</h2>
-<h3>Master of Science in Computer Science and Software Engineering - University of Washington</h3>
-<h4>2025 - Present</h4>
-<p>I'm currently pursuing my masters degree at the University of Washington.</p>
-<h3>Bachelor of Science in Computer Science - California State Polytechnic University, Humboldt (Cal Poly Humboldt)</h3>
-<h4>2020 - 2022</h4>
-<p>I'm a Computer Science graduate with honors from Cal Poly Humboldt (formerly known as Humboldt State University).  After finishing every possible GED requirement I could complete in community college, I transferred to this polytechnic to put all my focus into studying Computer Science.</p>
-<h4>Awards:</h4>
-<p><i>Computer Science Outstanding Student of the Year 2021-2022</i>, from the Cal Poly Humboldt Department of Computer Science.</p>
-<h3>Associate's in Liberal Arts: Science Exploration - College of the Redwoods</h3>
-<h4>2017 - 2020</h4>
-<p>I attended College of the Redwoods to complete all the prerequisites I can take before transferring my way to a university.  In the process, I earned an associate's degree in Liberal Arts: Science Exploration.</p>
-<h2>Certificates 📜</h2>
-<h3>freeCodeCamp</h3>
-<h4><a href="https://www.freecodecamp.org/certification/henatic/foundational-c-sharp-with-microsoft">Foundational C# with Microsoft</a> - July 2024</h4>
-<h4><a href="https://www.freecodecamp.org/certification/henatic/machine-learning-with-python-v7">Machine Learning with Python</a> - June 2024</h4>
-<h4><a href="https://www.freecodecamp.org/certification/henatic/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures (Legacy)</a> - April 2023</h4>
 <h2>Projects 👨‍💻</h2>
 <h3><a href="https://github.com/Nylex-net/PPI-Build2">Project/Promo Initiation (PPI)</a></h3>
 <p>One of the main reasons why I was hired at Nylex.net was because they needed help from someone to program an initiation system for the company SHN.  SHN is an engineering consultant company based in Eureka, California, and they needed an internal form to initiate new projects and promos by doing the following:</p>
@@ -86,6 +62,30 @@
   <li>Docker containers demonstrating examples of cybersecurity attacks written in the C language.</li>
   <li>A custom database built using <a href"https://www.airtable.com/">Airtable</a> for a local elderly support agency.</li>
 </ul>
+<h2>Work Experience 🕴️ (Currently open to work!)</h2>
+<h3>Apartment Advisor at University of Washington Bothell: March 2026 - Present</h3>
+<p>Building skills in leadership, team building, and creating connections by creating a positive environment for students and staff members.  The core idea here is to transfer these skills into future employment opportunities.</p>
+<h3>Software Engineer at Nylex.net, Inc.: September 2022 - November 2024</h3>
+<p>Worked for <a href="https://www.nylex.net/">Nylex.net</a> as an Automation Technician.  My job was to work on projects for clients and the company using software engineering practices.  My most notable project during this position is the Project/Promo Initiation (See Projects section for more info).</p>
+<h3>Crew Member at Little Caesars: August 2017 - December 2017</h3>
+<p>My first job was making "pizza pizza" during my first semester in college.</p>
+<h2>College Education 👨‍🎓</h2>
+<h3>Master of Science in Computer Science and Software Engineering - University of Washington</h3>
+<h4>2025 - Present</h4>
+<p>I'm currently pursuing my masters degree at the University of Washington.</p>
+<h3>Bachelor of Science in Computer Science - California State Polytechnic University, Humboldt (Cal Poly Humboldt)</h3>
+<h4>2020 - 2022</h4>
+<p>I'm a Computer Science graduate with honors from Cal Poly Humboldt (formerly known as Humboldt State University).  After finishing every possible GED requirement I could complete in community college, I transferred to this polytechnic to put all my focus into studying Computer Science.</p>
+<h4>Awards:</h4>
+<p><i>Computer Science Outstanding Student of the Year 2021-2022</i>, from the Cal Poly Humboldt Department of Computer Science.</p>
+<h3>Associate's in Liberal Arts: Science Exploration - College of the Redwoods</h3>
+<h4>2017 - 2020</h4>
+<p>I attended College of the Redwoods to complete all the prerequisites I can take before transferring my way to a university.  In the process, I earned an associate's degree in Liberal Arts: Science Exploration.</p>
+<h2>Certificates 📜</h2>
+<h3>freeCodeCamp</h3>
+<h4><a href="https://www.freecodecamp.org/certification/henatic/foundational-c-sharp-with-microsoft">Foundational C# with Microsoft</a> - July 2024</h4>
+<h4><a href="https://www.freecodecamp.org/certification/henatic/machine-learning-with-python-v7">Machine Learning with Python</a> - June 2024</h4>
+<h4><a href="https://www.freecodecamp.org/certification/henatic/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures (Legacy)</a> - April 2023</h4>
 
 <h2>Programming Languages and Tools 🛠️</h2>
 <h3>General Programming Languages</h3>
